@@ -47,6 +47,7 @@ Project consists of a creating a Sensitivity Label.
 <p align="center">
 Create Virtual Machine: <br/>
 <img src="VM.png" height="50%" width="50%" />
+<br/>
 <img src="VM 1.png" height="50%" width="50%" />
 <br />
 <br />
