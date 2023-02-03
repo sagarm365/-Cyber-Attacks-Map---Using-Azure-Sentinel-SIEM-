@@ -76,20 +76,22 @@ Turn of Windows Firewall on VM: <br/>
 <img src="turn of firewall.png" height="65%" width="50%"/>
 <br />
 <br />
-Select Sensitivity info type: <br/>
-<img src="sensitivity info types.png" height="65%" width="50%"/>
+Powershell script: <br/>
+<img src="powershell script.png" height="65%" width="50%"/>
 <br />
 <br />
-Result: <br/>
-<img src="result.png" height="50%" width="50%"/>
+Get Geolocation.io API Key: <br/>
+<img src="get geolocation.png" height="50%" width="50%"/>
 <br />
 <br />
-Watermark: <br/>
-<img src="add watermark.png" height="65%" width="50%"/>
+Run Script To get Geo Data from attackers: <br/>
+<img src="run script.png" height="65%" width="50%"/>
 <br />
 <br />
-Select Sensitivity info type: <br/>
-<img src="sensitivity info types.png" height="65%" width="50%"/>
+Create custom log in LAW to bring in our custom log: <br/>
+<img src="create custom log.png" height="65%" width="50%"/>
+<img src="create custom log 1.png" height="65%" width="50%"/>
+<img src="create custom log 2.png" height="65%" width="50%"/>
 <br />
 <br />
 Result: <br/>
