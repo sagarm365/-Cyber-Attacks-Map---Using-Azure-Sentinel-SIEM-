@@ -51,12 +51,12 @@ Create Virtual Machine: <br/>
 <img src="VM 1.png" height="50%" width="50%" />
 <br />
 <br />
-Scope: <br/>
-<img src="scope.png" height="50%" width="50%"/>
+Firewall turn off / allow all in firewall: <br/>
+<img src="ALLOW ALL.png" height="50%" width="50%"/>
 <br />
 <br />
-Protection settings: <br/>
-<img src="protection settings.png" height="50%" width="50%"/>
+Create Log Analytics Workspace: <br/>
+<img src="log analytics.png" height="50%" width="50%"/>
 <br />
 <br />
 Watermark: <br/>
