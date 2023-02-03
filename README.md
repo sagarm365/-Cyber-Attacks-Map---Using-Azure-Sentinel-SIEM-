@@ -1,9 +1,9 @@
 # Cyber-Attacks-Map---Using-Azure-Sentinel-SIEM
 
 <h2>Description</h2>
-Project consists of a creating a Sensitivity Label. 
- Configured Log Analytics Workspace in Azure to ingest custom logs containing geographic information (latitude, longitude, state/province, and country).
-• Configured Custom Fields in Log Analytics Workspace with the intent of mapping geo data in Azure Sentinel.
+Project consists of a Cyber Attacks Map using Azure Sentinel on SIEM framework.  <br/>
+• Configured Log Analytics Workspace in Azure to ingest custom logs containing geographic information (latitude, longitude, state/province, and country).<br/>
+• Configured Custom Fields in Log Analytics Workspace with the intent of mapping geo data in Azure Sentinel.<br/>
 • Configured Azure Sentinel (Microsoft's SIEM) Workbook to display global attack data (RDP brute force) on world map according to physical location and magnitude of attacks.
 <br/>
 
