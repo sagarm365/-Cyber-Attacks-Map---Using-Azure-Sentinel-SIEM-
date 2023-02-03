@@ -59,6 +59,43 @@ Create Log Analytics Workspace: <br/>
 <img src="log analytics.png" height="50%" width="50%"/>
 <br />
 <br />
+Enable gathering VM logs in Security Center: <br/>
+<img src="Security center.png" height="65%" width="50%"/>
+<br />
+<img src="Security center 1.png" height="65%" width="50%"/>
+<br />
+Connect Log Analytics to VM: <br/>
+<img src="connect log to vm.png" height="65%" width="50%"/>
+<br />
+<br />
+Observe Event viewer Logs in VM: <br/>
+<img src="observe event viewer.png" height="50%" width="50%"/>
+<br />
+<br />
+Turn of Windows Firewall on VM: <br/>
+<img src="turn of firewall.png" height="65%" width="50%"/>
+<br />
+<br />
+Select Sensitivity info type: <br/>
+<img src="sensitivity info types.png" height="65%" width="50%"/>
+<br />
+<br />
+Result: <br/>
+<img src="result.png" height="50%" width="50%"/>
+<br />
+<br />
+Watermark: <br/>
+<img src="add watermark.png" height="65%" width="50%"/>
+<br />
+<br />
+Select Sensitivity info type: <br/>
+<img src="sensitivity info types.png" height="65%" width="50%"/>
+<br />
+<br />
+Result: <br/>
+<img src="result.png" height="50%" width="50%"/>
+<br />
+<br />
 Watermark: <br/>
 <img src="add watermark.png" height="65%" width="50%"/>
 <br />
