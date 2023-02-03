@@ -94,11 +94,16 @@ Create custom log in LAW to bring in our custom log: <br/>
 <img src="create custom log 2.png" height="65%" width="50%"/>
 <br />
 <br />
-Result: <br/>
-<img src="result.png" height="50%" width="50%"/>
+Create custom fields/extract fields from raw custom log data: <br/>
+<img src="extract.png" height="50%" width="50%"/>
 <br />
+<img src="extract1.png" height="50%" width="50%"/>
 <br />
+<img src="extract 2.png" height="50%" width="50%"/>
+<br/>
+<img src="extract 3.png" height="50%" width="50%"/>
 Watermark: <br/>
+ 
 <img src="add watermark.png" height="65%" width="50%"/>
 <br />
 <br />
