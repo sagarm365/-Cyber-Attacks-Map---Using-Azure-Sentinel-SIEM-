@@ -90,7 +90,9 @@ Run Script To get Geo Data from attackers: <br/>
 <br />
 Create custom log in LAW to bring in our custom log: <br/>
 <img src="create custom log.png" height="65%" width="50%"/>
+<br/>
 <img src="create custom log 1.png" height="65%" width="50%"/>
+<br/>
 <img src="create custom log 2.png" height="65%" width="50%"/>
 <br />
 <br />
@@ -102,20 +104,21 @@ Create custom fields/extract fields from raw custom log data: <br/>
 <img src="extract 2.png" height="50%" width="50%"/>
 <br/>
 <img src="extract 3.png" height="50%" width="50%"/>
-Watermark: <br/>
- 
-<img src="add watermark.png" height="65%" width="50%"/>
+Setup map in sentinel with Latitude and Longitude (or country): <br/>
+<img src="setup map query.png" height="65%" width="50%"/>
 <br />
 <br />
-Select Sensitivity info type: <br/>
-<img src="sensitivity info types.png" height="65%" width="50%"/>
+Fixing Map plot sizes: <br/>
+<img src="map 1.png" height="65%" width="50%"/>
 <br />
 <br />
-Result: <br/>
-<img src="result.png" height="50%" width="50%"/>
+Final check on map: <br/>
+<img src="map long-lat based 1.png" height="50%" width="50%"/>
 <br />
+<img src="map country based.png" height="50%" width="50%"/>
 <br />
-
+<img src="map country based 1.png" height="50%" width="50%"/>
+<br/>
 
 
 
