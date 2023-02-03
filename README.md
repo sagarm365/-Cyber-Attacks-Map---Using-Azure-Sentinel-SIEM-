@@ -104,6 +104,7 @@ Create custom fields/extract fields from raw custom log data: <br/>
 <img src="extract 2.png" height="50%" width="50%"/>
 <br/>
 <img src="extract 3.png" height="50%" width="50%"/>
+<br/>
 Setup map in sentinel with Latitude and Longitude (or country): <br/>
 <img src="setup map query.png" height="65%" width="50%"/>
 <br />
