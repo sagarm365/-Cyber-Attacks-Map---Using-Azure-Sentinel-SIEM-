@@ -20,19 +20,19 @@ Project consists of a creating a Sensitivity Label.
 
 <h3>Steps: </h3>
 
-1.  Create Azure Subscription
+1. Create Azure Subscription
 2.	Create Virtual Machine
 3.	Firewall turn off / allow all in firewall
 4.	Create Log Analytics Workspace
 5.	Enable gathering VM logs in Security Center
-6.  Connect Log Analytics to VM
-7.  Setup Azure Sentinel
-8.  Log into VM with Remote Desktop
-9.  Observe Event viewer Logs in VM
+6. Connect Log Analytics to VM
+7. Setup Azure Sentinel
+8. Log into VM with Remote Desktop
+9. Observe Event viewer Logs in VM
 10. Turn of Windows Firewall on VM
 11. Running a powershell script
 12. Get Geolocation.io API Key
-13. Run Script To get Geo Data from attackers
+13  Run Script To get Geo Data from attackers
 14. Create custom log in LAW to bring in our custom log
 15. Create custom fields/extract fields from raw custom log data
 16. Testing Extracts
@@ -45,8 +45,9 @@ Project consists of a creating a Sensitivity Label.
 <h3>Screenshots:</h3>
 
 <p align="center">
-Create a Sensitivity label: <br/>
-<img src="name it.png" height="50%" width="50%" />
+Create Virtual Machine: <br/>
+<img src="VM.png" height="50%" width="50%" />
+<img src="VM 1.png" height="50%" width="50%" />
 <br />
 <br />
 Scope: <br/>
